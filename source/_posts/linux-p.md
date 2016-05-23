@@ -1,0 +1,29 @@
+---
+title: Linuxパーミッション Memo
+id: 22
+categories:
+  - Memo
+  - 未分類
+date: 2013-07-03 15:32:01
+tags:
+---
+
+3桁の8進数Ver.
+
+0 ---
+1 --x
+2 -w-
+3 -wx
+4 r--
+5 r-x
+6 rw-
+7 rwx
+
+[http:/](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230728/)[/itpro.nikkeibp.co.jp/article/COLUMN/20060227/230728/](http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230728/)
+
+&nbsp;
+
+setgid(sgid)という属性
+
+2775
+[http://blog.onk164.net/archives/272.html](http://blog.onk164.net/archives/272.html)
