@@ -32,9 +32,7 @@ https://www.firebase.com/docs/web/libraries/ember/guide.html
 
 ### FireBase ConsoleでApp作成
 
-[
-![p1](/img/p1-300x141.png)
-](/img/p1.png)
+<img src="/weblog/img/p1.png" width="300" height="141">
 
 ## ■ 作成
 
@@ -58,7 +56,8 @@ emberFireが追記されていることがわかる
 
 ### emberFire設定
 
-*   「config/environment.js」内の先ほど作成したfirebaseのURLを設定する
+* 「config/environment.js」内の先ほど作成したfirebaseのURLを設定する
+
 ```
 firebase:'https://YOUR-FIREBASE-APP.firebaseio.com/'
 ```
@@ -104,7 +103,8 @@ $ ember generate template posts
 </ul>
 ```
 
-*   controller
+* controller
+
 ```
 $ ember generate controller posts
 ```
@@ -136,29 +136,24 @@ $ ember s
 
 http://localhost:4200/
 
-[
-![p2](/img/p2-300x186.png)
-](/img/p2.png)
+<img src="/weblog/img/p2.png" width="300" height="186">
 
 http://localhost:4200/posts
 
-[
-![p3](/img/p3.png)
-](/img/p3.png)
+<img src="/weblog/img/p3.png" width="300" height="141">
 
 「Publis」ボタンを押してblogを投稿
 
 ### FireBase Console画面にて確認
 
-[
-![p4](/img/p4-300x124.png)
-](/img/p4.png)
+<img src="/weblog/img/p4.png" width="300" height="124">
 
 無事登録されていることを確認
 
 ### データ一覧を参照する処理を追記
 
 * route
+
 ```
 $ ember generate route posts
 ```
@@ -189,9 +184,7 @@ $ ember s
 ```
 http://localhost:4200/posts
 
-[
-![p5](/img/p5-245x300.png)
-](/img/p5.png)
+<img src="/weblog/img/p1.png" width="245" height="300">
 
 上記の通り登録したものが表示されればOK。
 他にもコメントなどのリレーションのコードもあるが割愛ｗ
