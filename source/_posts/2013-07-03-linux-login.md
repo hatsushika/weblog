@@ -4,20 +4,21 @@ id: 11
 categories:
   - Linux
 date: 2013-07-03 12:19:03
-tags:
+tags: Linux
 ---
 
-[bash]
+```
 $ su testuser
 This account is currently not available.
-[/bash]
+```
 ↑こんなヤツが出る場合
 
 testuserには「/sbin/nologin」が設定されている
 なので「/bin/bash」に変更して上げる
-[bash]
-$ usermod -s /bin/bash testuser
-[/bash]
+
+`$ usermod -s /bin/bash testuser`
+
 </br>
-参考URL：
+
+Thanks for the link.
 http://server-setting.info/centos/login_user.html
