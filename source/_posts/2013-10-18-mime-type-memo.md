@@ -3,7 +3,6 @@ title: MIME type Memo
 id: 49
 categories:
   - Memo
-  - 未分類
 date: 2013-10-18 17:14:37
 tags:
 ---
