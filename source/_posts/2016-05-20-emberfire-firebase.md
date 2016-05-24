@@ -2,9 +2,9 @@
 title: FireBase試し (EmberFire)
 id: 76
 categories:
-  - 未分類
+  - emberjs
 date: 2016-05-20 02:05:20
-tags:
+tags: emberjs
 ---
 
 Google i/oでFirebaseが気になったので試しにどんなものかさわってみた
@@ -33,8 +33,8 @@ https://www.firebase.com/docs/web/libraries/ember/guide.html
 ### FireBase ConsoleでApp作成
 
 [
-![p1](http://tetuo41.com/wp-content/uploads/2016/05/p1-300x141.png)
-](http://tetuo41.com/wp-content/uploads/2016/05/p1.png)
+![p1](/img/p1-300x141.png)
+](/img/p1.png)
 
 ## ■ 作成
 
@@ -137,22 +137,22 @@ $ ember s
 http://localhost:4200/
 
 [
-![p2](http://tetuo41.com/wp-content/uploads/2016/05/p2-300x186.png)
-](http://tetuo41.com/wp-content/uploads/2016/05/p2.png)
+![p2](/img/p2-300x186.png)
+](/img/p2.png)
 
 http://localhost:4200/posts
 
 [
-![p3](http://tetuo41.com/wp-content/uploads/2016/05/p3.png)
-](http://tetuo41.com/wp-content/uploads/2016/05/p3.png)
+![p3](/img/p3.png)
+](/img/p3.png)
 
 「Publis」ボタンを押してblogを投稿
 
 ### FireBase Console画面にて確認
 
 [
-![p4](http://tetuo41.com/wp-content/uploads/2016/05/p4-300x124.png)
-](http://tetuo41.com/wp-content/uploads/2016/05/p4.png)
+![p4](/img/p4-300x124.png)
+](/img/p4.png)
 
 無事登録されていることを確認
 
@@ -190,8 +190,8 @@ $ ember s
 http://localhost:4200/posts
 
 [
-![p5](http://tetuo41.com/wp-content/uploads/2016/05/p5-245x300.png)
-](http://tetuo41.com/wp-content/uploads/2016/05/p5.png)
+![p5](/img/p5-245x300.png)
+](/img/p5.png)
 
 上記の通り登録したものが表示されればOK。
 他にもコメントなどのリレーションのコードもあるが割愛ｗ
