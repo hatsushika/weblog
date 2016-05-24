@@ -2,7 +2,7 @@
 title: JAWSDAYS 2015でみたSession
 id: 8
 categories:
-  - 未分類
+  - memo
 date: 2015-05-22 13:49:00
 tags:
 ---
