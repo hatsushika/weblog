@@ -2,10 +2,9 @@
 title: Passenger Memo
 id: 52
 categories:
-  - Memo
+  - memo
   - 未分類
 date: 2013-12-17 11:04:55
-tags:
 ---
 
 # 必要なモノをインストール
