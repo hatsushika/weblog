@@ -32,7 +32,7 @@ https://www.firebase.com/docs/web/libraries/ember/guide.html
 
 ### FireBase ConsoleでApp作成
 
-<img src="/weblog/img/p1.png" width="300" height="141">
+<img src="/img/p1.png" width="300" height="141">
 
 ## ■ 作成
 
@@ -136,17 +136,17 @@ $ ember s
 
 http://localhost:4200/
 
-<img src="/weblog/img/p2.png" width="300" height="186">
+<img src="/img/p2.png" width="300" height="186">
 
 http://localhost:4200/posts
 
-<img src="/weblog/img/p3.png" width="300" height="141">
+<img src="/img/p3.png" width="300" height="141">
 
 「Publis」ボタンを押してblogを投稿
 
 ### FireBase Console画面にて確認
 
-<img src="/weblog/img/p4.png" width="300" height="124">
+<img src="/img/p4.png" width="300" height="124">
 
 無事登録されていることを確認
 
@@ -184,7 +184,7 @@ $ ember s
 ```
 http://localhost:4200/posts
 
-<img src="/weblog/img/p1.png" width="245" height="300">
+<img src="/img/p1.png" width="245" height="300">
 
 上記の通り登録したものが表示されればOK。
 他にもコメントなどのリレーションのコードもあるが割愛ｗ
