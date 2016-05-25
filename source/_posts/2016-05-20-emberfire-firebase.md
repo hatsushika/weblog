@@ -2,9 +2,11 @@
 title: FireBase試し (EmberFire)
 id: 76
 categories:
-  - emberjs
+  - Try
 date: 2016-05-20 02:05:20
-tags: emberjs
+tags:
+  - emberjs
+  - Firebase
 ---
 
 Google i/oでFirebaseが気になったので試しにどんなものかさわってみた
