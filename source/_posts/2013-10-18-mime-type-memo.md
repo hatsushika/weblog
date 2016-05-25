@@ -4,7 +4,8 @@ id: 49
 categories:
   - Memo
 date: 2013-10-18 17:14:37
-tags:
+tags: 
+  - MIME
 ---
 
 .doc application/msword
