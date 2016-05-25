@@ -2,9 +2,10 @@
 title: Linuxでログイン出来ないユーザをログイン出来るように変更する
 id: 11
 categories:
-  - Linux
+  - Memo
 date: 2013-07-03 12:19:03
-tags: Linux
+tags: 
+  - linux
 ---
 
 ```
