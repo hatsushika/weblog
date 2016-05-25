@@ -2,9 +2,10 @@
 title: vagrant Memo
 id: 46
 categories:
-  - memo
+  - Memo
 date: 2013-10-04 19:37:12
-tags: memo
+tags: 
+  - vagrant
 ---
 
 # 64bitだったver
