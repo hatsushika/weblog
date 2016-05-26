@@ -40,7 +40,7 @@ pagination_dir: page
 theme: light
 deploy:
   type: git
-  repo: 'git@github.com:tetuo41/weblog.git'
+  repo: 'git@github.com:tetuo41/blog.tetuo41.com.git'
   branch: gh-pages
   message: hexo deploy
 disqus_shortname: stayrad
