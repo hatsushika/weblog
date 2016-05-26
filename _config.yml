@@ -43,3 +43,4 @@ deploy:
   repo: 'git@github.com:tetuo41/weblog.git'
   branch: gh-pages
   message: hexo deploy
+disqus_shortname: stayrad
