@@ -1,6 +1,7 @@
 menu:
   Home:
   Archives: archives
+  AboutMe: AboutMe
 
 widgets:
 - search
@@ -10,7 +11,7 @@ widgets:
 excerpt_link: Read More
 
 twitter:
-  username:
+  username: tetuo41
   show_replies: false
   tweet_count: 5
 
@@ -24,7 +25,7 @@ addthis:
 
 fancybox: true
 
-google_analytics:
+google_analytics: UA-40597557-1
 rss:
 
 comment_provider: facebook
